@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Wen Long
+# Hi there 👋 I'm Wen Long
 
-# Welcome to my GitHub
+## Welcome to my GitHub
 
 To my portfolio ---->>>> osaknfoanfoq
 
