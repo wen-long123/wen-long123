@@ -18,26 +18,30 @@
 
 ### 🛠️ Technologies and Tools I Use
 
-#### 🧠 Programming Languages
-- ![HTML/CSS](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Languages/htmlcss.png) **HTML/CSS** — 85%
-- ![JavaScript](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Languages/javascript.png) **JavaScript** — 85%
-- ![Python](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Languages/python.png) **Python** — 90%
-- ![C++](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Languages/Cplusplus.png) **C++** — 90%
-- ![Java](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Languages/Java.png) **Java** — 90%
-- ![SQL](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Languages/sql.png) **SQL** — 90%
+<p>
+  <!-- Languages -->
+  <img alt="HTML/CSS" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25px" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px" />
 
-#### ⚙️ Frameworks & Libraries
-- ![React.js](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Frameworks/reactjs.png) **React.js** — 85%
-- ![Tailwind CSS](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Frameworks/tailwind.png) **Tailwind CSS** — 85%
-- ![Node.js](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Frameworks/nodejs.png) **Node.js** — 85%
-- ![ASP.NET](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Frameworks/aspnet.png) **ASP.NET** — 85%
+  <!-- Frameworks -->
+  <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25px" />
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25px" />
 
-#### 🧰 Tools & Platforms
-- ![Eclipse](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Tools/eclipse.png) **Eclipse** — 90%
-- ![VS Code](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Tools/vscode.png) **VS Code** — 90%
-- ![Code::Blocks](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Tools/codeblocks.png) **Code::Blocks** — 90%
-- ![Git/GitHub](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Tools/github.png) **Git/GitHub** — 85%
-- ![UiPath](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Tools/uipath.png) **UiPath** — 80%
-- ![Google Colab](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tech/Tools/google-colab.png) **Google Colab** — 90%
+  <!-- Tools -->
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" height="25px" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25px" />
+  <img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-0078D7?style=for-the-badge&logo=codeblocks&logoColor=white" height="25px" />
+  <img alt="Git/GitHub" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px" />
+  <img alt="UiPath" src="https://img.shields.io/badge/UiPath-3B82F6?style=for-the-badge&logo=uipath&logoColor=white" height="25px" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="25px" />
+</p>
+
 
 ---
