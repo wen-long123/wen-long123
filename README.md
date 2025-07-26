@@ -10,6 +10,7 @@
 
 - 🎓 Currently pursuing a **Bachelor's Degree in Information Technology (Computer Science)** at **Kaplan / Murdoch University**
 - 🛠️ Actively building and refining my **personal portfolio website**
+- 🚧 Currently looking to start a **new project**
 - 🎮 Passionate about **gaming**, **problem-solving**, and exploring new technologies
 - 📬 Want to get in touch? Reach me through my [portfolio contact page](https://wenlong-portfolio.netlify.app)
 
